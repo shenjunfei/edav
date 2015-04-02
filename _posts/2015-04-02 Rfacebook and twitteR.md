@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: pres
 title: Rfacebook and twitteR
 author: Junfei Shen
 date: "April 2, 2015"
